@@ -1,0 +1,16 @@
+body{
+    background-image: url('images/space-3197611_1280.jpg');
+}
+.nav-border {
+    border-radius: 20px; 
+    background-color: rgb(228, 225, 230);   
+    }
+
+.info-clas{
+    background-color: white;
+    margin: 0 15px;
+}
+.gap{
+ margin: 0px 30px;
+ /* margin-left: 10px; */
+}
